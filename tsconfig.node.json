@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "CommonJS", // Giữ nguyên để tương thích với Electron
+    "moduleResolution": "bundler", // Sửa lỗi ở đây
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["electron"]
+}

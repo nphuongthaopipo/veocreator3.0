@@ -1,0 +1,5 @@
+{
+  "name": "Veo Suite - AI Video Creator",
+  "description": "An AI-powered application to generate stories, video prompts, thumbnails, and full videos from simple ideas or articles. Use the power of Gemini to automate your creative workflow.",
+  "requestFramePermissions": []
+}
